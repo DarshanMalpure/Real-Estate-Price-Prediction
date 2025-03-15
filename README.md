@@ -1,6 +1,6 @@
 # Real Estate Price Prediction – Data Science Regression Project
 
-This data science project walks through a step-by-step process of how to build a **real estate price prediction website**.
+Built a Python-based end-to-end ML solution to predict Bangalore house prices. Used scikit-learn for regression modeling, Flask for API deployment, and integrated with a front-end using HTML/CSS/JavaScript
 
 ## Project Overview
 
