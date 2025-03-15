@@ -1,6 +1,6 @@
 # Real Estate Price Prediction – Data Science Regression Project
 
-This data science project series walks through a step-by-step process of how to build a **real estate price prediction website**.
+This data science project walks through a step-by-step process of how to build a **real estate price prediction website**.
 
 ## Project Overview
 
